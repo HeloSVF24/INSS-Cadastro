@@ -1,0 +1,13 @@
+<img width="1366" height="720" alt="principal" src="https://github.com/user-attachments/assets/e3fbf44e-201b-422d-a1eb-018478faa62a" />
+<img width="1366" height="720" alt="inicio" src="https://github.com/user-attachments/assets/295e70a4-df41-4553-8de0-354a1683d6d0" />
+<img width="1366" height="720" alt="cadastro1" src="https://github.com/user-attachments/assets/13e4cb7f-3168-4ecb-b256-074df144f06a" />
+<img width="1366" height="720" alt="cadastro2" src="https://github.com/user-attachments/assets/143df52b-a7c1-4c7d-8075-ed627052816a" />
+<img width="1366" height="720" alt="cadastro3" src="https://github.com/user-attachments/assets/afdb0055-3557-45ef-ac70-56642636cd12" />
+<img width="1366" height="720" alt="cadastro4" src="https://github.com/user-attachments/assets/c04b4883-dfdc-4b50-990a-48f368c0b4c1" />
+<img width="1366" height="720" alt="cadastro5" src="https://github.com/user-attachments/assets/c44ccae8-ea0b-4997-b606-e2df1e1b1a93" />
+<img width="1366" height="720" alt="cadastro6" src="https://github.com/user-attachments/assets/d43209f3-bfb2-4947-abe6-162b654705e2" />
+<img width="1366" height="720" alt="cadastro7" src="https://github.com/user-attachments/assets/1c1ff41d-f32c-48a9-bdfe-68e9082d03b0" />
+<img width="1366" height="720" alt="cadastro8" src="https://github.com/user-attachments/assets/f636dad8-5f98-45c0-b1f4-a1037ef88e75" />
+<img width="1366" height="720" alt="cadastro9" src="https://github.com/user-attachments/assets/9e93195a-619a-4c98-b20b-1aae57c4660d" />
+<img width="1366" height="720" alt="sucesso" src="https://github.com/user-attachments/assets/bc59e5f4-3eb0-4a17-b1f7-852d161badfe" />
+<img width="1366" height="720" alt="fechar" src="https://github.com/user-attachments/assets/100dc3fa-9595-4aff-9e45-c0833ae6e67d" />
